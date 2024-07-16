@@ -5,6 +5,7 @@ Ele irá conter um website com o detalhamento de algumas linguagens/ferramentas 
 Ao finalizar, hospedem este site no GitHub Pages
 
 Data de Entrega: 03/12/2024
+
 DATA DE APRESENTAÇÃO: 09/12/2024
 
 As 6 Partes do seu website deverão conter no mínimo os seguintes conteúdos:
@@ -12,12 +13,12 @@ As 6 Partes do seu website deverão conter no mínimo os seguintes conteúdos:
 ## HTML:
 
 Liste as principais tags HTML e descreva suas propriedades e utilizações. Inclua exemplos práticos.
-- Estruturais: <html>, <head>, <body>, <div>, <span>
-- Textuais: <h1> - <h6>, <p>, <a>, <strong>, <em>
-- Mídia: <img>, <audio>, <video>
-- Formulários: <form>, <input>, <textarea>, <button>, <select>
-- Tabelas: <table>, <tr>, <td>, <th>
-- Semânticas: <header>, <footer>, <article>, <section>, <nav>
+- Estruturais: \<html>, \<head>, \<body>, \<div>, \<span>
+- Textuais: \<h1> - \<h6>, \<p>, \<a>, \<strong>, \<em>
+- Mídia: \<img>, \<audio>, \<video>
+- Formulários: \<form>, \<input>, \<textarea>, \<button>, \<select>
+- Tabelas: \<table>, \<tr>, \<td>, \<th>
+- Semânticas: \<header>, \<footer>, \<article>, \<section>, \<nav>
 
 ## CSS:
 
