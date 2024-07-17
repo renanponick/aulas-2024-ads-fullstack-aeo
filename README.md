@@ -42,9 +42,9 @@ Manipulação de Dados: Arrays (map, filter, reduce), Objetos (criação e acess
 
 Explique a estrutura de componentes e como eles são utilizados para criar interfaces de usuário dinâmicas.
 - Descreva o uso de hooks (como useState e useEffect) para gerenciar estado e efeitos colaterais.
-- Descreva a importância do JSX e como ele facilita a escrita de código React.
-- Forneça exemplos de como utilizar o React Router para navegação entre páginas.
-- Explique como integrar bibliotecas externas (como Redux ou Context API) para gerenciamento de estado global.
+- Descreva a importância do JSX e como ele facilita a escrita de código React, não esqueça de adicionar uma exemplo da estrutura do código.
+- Forneça exemplos de como utilizar o react-router-dom para navegação entre páginas.
+- Explique como integrar bibliotecas externas (como Redux ou Context API) para gerenciamento de estado global e explique também a diferença entre o externo e o controle nativo do createContext do React.
 
 ## Node.js:
 
