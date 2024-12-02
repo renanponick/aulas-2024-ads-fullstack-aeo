@@ -54,10 +54,9 @@ Descreva o papel do Node.js no backend e como ele permite a criação de servido
 - Forneça exemplos de integração com bancos de dados (como MongoDB ou PostgreSQL) usando bibliotecas como Mongoose ou Sequelize.
 - Aborde práticas de segurança, como a utilização de middlewares para autenticação e autorização.
 
-## DevOps (GHPages e PM2/Docker):
+## DevOps (GHPages e Docker):
 
 - Explique como utilizar o GitHub Pages (GHPages) para hospedar o frontend de forma gratuita e simples.
-- Demonstre o uso do PM2 para gerenciar processos Node.js em produção, incluindo monitoramento e reinicialização automática.
 - Descreva como criar uma imagem Docker para o aplicativo, explicando os benefícios de containerização.
 - Forneça um exemplo de um Dockerfile e como utilizar o Docker Compose para orquestrar múltiplos contêineres.
 
